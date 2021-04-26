@@ -19,13 +19,10 @@ When you run the code, you have to Enter the height, width, and length; then, th
 #######################################################
 file manifest:
 there are only three folders in the project : 
-rasp:
 	-cam.py
 	-rasperryPi.py
 	-R.txt
-SCARA_Robot:
 	-SCARA_Robot
-SCARA_SECONDE_ARDUINO:
 	-SCARA_SECONDE_ARDUINO
 #######################################################
 Known bugs:
