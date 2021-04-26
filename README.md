@@ -1,5 +1,3 @@
-# inspy
-a Robot will film Products
 Configuration instructions:
 you can run my python code easily by installing the R.txt file or by installing :
 numpy==1.20.2
@@ -21,13 +19,10 @@ When you run the code, you have to Enter the height, width, and length; then, th
 #######################################################
 file manifest:
 there are only three folders in the project : 
-rasp:
 	-cam.py
 	-rasperryPi.py
 	-R.txt
-SCARA_Robot:
 	-SCARA_Robot
-SCARA_SECONDE_ARDUINO:
 	-SCARA_SECONDE_ARDUINO
 #######################################################
 Known bugs:
